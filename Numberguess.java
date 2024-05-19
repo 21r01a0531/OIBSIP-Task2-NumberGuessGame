@@ -15,6 +15,7 @@ public class Numberguess {
 		
 		
 		int points = 0;
+		int aa=0;
 		
 		String prompt =  new String();
 		
